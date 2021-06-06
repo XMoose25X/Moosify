@@ -1,0 +1,2 @@
+# Moosify
+Moosify was a project based on the popular website Cornify. Just as in the original, my project has the ability to randomly generate image elements onto the screen using JavaScript DOM manipulation. The goal was to remix an existing piece of digital media, so I decided to have moose appear on the screen instead of the usual unicorns and rainbows. I added in a custom button for embedding onto other websites and have the script publicly available for use just like the original.
